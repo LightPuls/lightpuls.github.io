@@ -1,5 +1,5 @@
 ---
-title: About
+title: Acerca de mí
 layout: page
 description: About
 bodyClass: page-about

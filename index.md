@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Pulse Light - Trabajo remoto.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Aprende en este mundo de hacking etico de las cuales aprenderas habilidades tecnicas y como proteger tu negocio y tus redes sociales en privado.

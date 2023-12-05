@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Equipo
 layout: teams
 description: Team
 permalink: "/team/"
